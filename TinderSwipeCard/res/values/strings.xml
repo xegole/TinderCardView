@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tinder Swipe Card</string>
+    <string name="loading">Loading&#8230;\nMore Data</string>
+
+</resources>
